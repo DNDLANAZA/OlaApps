@@ -1,5 +1,4 @@
-# OlaApps : C'est le nom de notre application et elle permet de 
- Gérer le stock d'une station service
+# OlaApps : C'est le nom de notre application et elle permet de Gérer le stock d'une station service
 
 # Installation et configuration de l'environnement de developpement
 
